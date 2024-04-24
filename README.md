@@ -6,7 +6,7 @@ Classification of C/C++ source code files as vulnerable or non-vulnerable using 
 
 ## Data Source
 
-- Custom dataset  [here!](https://www.kaggle.com/datasets/shauryapsbisht/vulnerable-c-source-code)
+- Proprietary dataset  [here!](https://www.kaggle.com/datasets/shauryapsbisht/vulnerable-c-source-code)
 - Diversevul dataset [here!](https://drive.google.com/file/d/12IWKhmLhq7qn5B_iXgn5YerOQtkH-6RG/view)
 <!-- - Draper dataset (link TBA) -->
 
